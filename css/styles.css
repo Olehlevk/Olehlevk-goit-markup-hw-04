@@ -381,7 +381,6 @@ img {
   height: 112px;
   border: 1px solid #8e8f99;
   background: #f4f4fd;
-  padding: 24px 100px;
   margin-bottom: 8px;
   border-radius: 4px;
 }
@@ -397,7 +396,6 @@ img {
 }
 
 .ourteam-icons-item {
-  display: flex;
   width: 40px;
   height: 40px;
 }
